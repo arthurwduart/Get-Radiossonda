@@ -1,2 +1,2 @@
 # Radiossonda
-Alguns scripts elaborados para analisar o ar superior
+Scripts elaborados para análise do ar superior.
