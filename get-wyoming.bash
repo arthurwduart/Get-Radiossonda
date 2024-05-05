@@ -1,12 +1,12 @@
-############################################
+#-----------------------------------------#
 # 
 # Script Para Baixar dados de Radiossonda
-# Laboratorio de Meteorologia - UFOPA 
-# Dev: Arthur Duarte 	       
-# Fonte: Uwyoming  
-# 23 - 08 - 2023  
+#   Laboratorio de Meteorologia - UFOPA 
+#         Dev: Arthur Duarte 	       
+#          Fonte: Uwyoming  
+#          23 - 08 - 2023  
 #
-############################################
+#-----------------------------------------#
 
 #!/bin/bash   
 
